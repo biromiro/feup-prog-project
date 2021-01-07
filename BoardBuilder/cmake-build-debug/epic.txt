@@ -1,0 +1,61 @@
+15 x 15
+Nn H AC
+Kb V AUTE
+Bf V BI
+Mn H DE
+Nd V EB
+Mo V ECB
+Nj V EP
+Nd H ERIKITE
+Ek H ERUGO
+En V GS
+Bd V HB
+Gf V HICKOK
+Bd H HOBO
+Al H HST
+Al V HT
+Nh V I-
+Nf V IA
+Bo V IR
+Kl V KAIFS
+Aa H KSU
+Ng V KT
+Lf H KU
+Na H OE
+Bg V ON
+Be V OR
+Eo V OT
+Kf H OX
+Ne V RE
+El V RO
+Jn V SAIDA
+Cm H SPR
+Eb H SPROIL
+Ii H STYLE
+Am V SUS
+Hm V TE
+Hm H TIE
+An V TRP
+Bl H TURI
+Em V UC
+Bi V WILED
+Kg V XU
+Ma V YOT
+Ma H YT
+
+    a  b  c  d  e  f  g  h  i  j  k  l  m  n  o
+ A  K  S  U                          H  S  T    
+ B           H  O  B  O     W        T  U  R  I 
+ C           B  R  I  N     I           S  P  R 
+ D                          L                   
+ E     S  P  R  O  I  L     E     E  R  U  G  O 
+ F                          D        O  C  S  T 
+ G                 H                            
+ H                 I                    T  I  E 
+ I                 C        S  T  Y  L  E       
+ J                 K                       S    
+ K     A           O  X              K     A    
+ L     U           K  U              A     I    
+ M  Y  T                             I     D  E 
+ N  O  E     E  R  I  K  I  T  E     F     A  C 
+ O  T        B  E  A  T  -     P     S        B 

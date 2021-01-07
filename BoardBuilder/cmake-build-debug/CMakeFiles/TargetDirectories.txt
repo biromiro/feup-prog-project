@@ -1,0 +1,3 @@
+C:/Users/nrtc/Desktop/FEUP/prog_scrabble/BoardBuilder/cmake-build-debug/CMakeFiles/BoardBuilder.dir
+C:/Users/nrtc/Desktop/FEUP/prog_scrabble/BoardBuilder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nrtc/Desktop/FEUP/prog_scrabble/BoardBuilder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

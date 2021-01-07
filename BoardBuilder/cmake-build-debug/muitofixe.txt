@@ -1,0 +1,52 @@
+15 x 15
+Fe H A-SCOPE
+Dd V AE
+Ib H BURWELL
+Ba V BWC
+Ol H CC
+Ni H CT
+Co V CURETTE
+Ai V DEVE
+Hb V EB
+Df V EM-
+Jj V FEEST
+Ma V GCL
+De V IAA
+Kl H ID
+Hc V IU
+Nl H IY
+Dc H LAIE
+Jl H LE
+Jl V LIENIC
+Dc V LW
+Mm V LYC
+Lc V MAST
+Lc H MOFFIT
+Ml H NL
+Al H NWBW
+Mi V RCS
+Ha H REIST
+Lo V RFQ
+Mi H RS
+Hd V SR
+He V TW
+Em V UNMINED
+Be H UROMERE
+Ec H WEAM
+
+    a  b  c  d  e  f  g  h  i  j  k  l  m  n  o
+ A                          D        N  W  B  W 
+ B  B           U  R  O  M  E  R  E             
+ C  W                       V                 C 
+ D  C     L  A  I  E        E                 U 
+ E        W  E  A  M                    U     R 
+ F              A  -  S  C  O  P  E     N     E 
+ G                                      M     T 
+ H  R  E  I  S  T                       I     T 
+ I     B  U  R  W  E  L  L              N     E 
+ J                             F     L  E       
+ K                             E     I  D       
+ L        M  O  F  F  I  T     E     E        R 
+ M  G     A                 R  S     N  L     F 
+ N  C     S                 C  T     I  Y     Q 
+ O  L     T                 S        C  C       
